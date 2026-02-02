@@ -44,4 +44,4 @@ Qualquer sugestão, correção ou pull request é muito bem-vindo 😄
 
 Por Tiago LLopes
 
-Santos, Brasil – 2026
+Santos/SP, Brasil – 2026
