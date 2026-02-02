@@ -6,13 +6,12 @@ Este repositório é o meu cantinho pessoal de estudos e aprendizado da linguage
 Aqui eu organizo exemplos simples e diretos, **um conceito por pasta**, para fixar os fundamentos da linguagem.
 
 Cada pasta tem um `main.go` pronto para rodar com:
-
-```bash
+bash
 go run .
 
 Ou simplesmente:
 
-```bash
+bash
 go run main.go
 
 ## 📋 Conceitos já explorados
@@ -29,7 +28,7 @@ Estou adicionando mais exemplos aos poucos, sempre priorizando clareza e simplic
 ## 🛠️ Como usar este repositório
 
 1. Clone o projeto:
-```bash
+bash
 git clone https://github.com/tiagollopes/golang-examples.git
 cd golang-examples
 
@@ -38,7 +37,7 @@ cd golang-examples
 cd structs
 
 3. Execute o exemplo:
-```bash
+bash
 go run
 
 Espero que esses exemplos te ajudem tanto quanto estão me ajudando nos estudos!
