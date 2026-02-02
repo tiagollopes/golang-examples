@@ -37,7 +37,11 @@ Estou adicionando mais exemplos aos poucos, sempre priorizando clareza e simplic
 `go run`
 
 Espero que esses exemplos te ajudem tanto quanto estão me ajudando nos estudos!
+
 Sinta-se à vontade para clonar, rodar, modificar, copiar e aprender junto comigo.
+
 Qualquer sugestão, correção ou pull request é muito bem-vindo 😄
+
 Por Tiago LLopes
+
 Santos, Brasil – 2026
