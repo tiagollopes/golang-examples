@@ -6,13 +6,12 @@ Este repositório é o meu cantinho pessoal de estudos e aprendizado da linguage
 Aqui eu organizo exemplos simples e diretos, **um conceito por pasta**, para fixar os fundamentos da linguagem.
 
 Cada pasta tem um `main.go` pronto para rodar com:
-bash
-go run .
+
+`go run`
 
 Ou simplesmente:
 
-bash
-go run main.go
+`go run main.go`
 
 ## 📋 Conceitos já explorados
 
@@ -28,17 +27,14 @@ Estou adicionando mais exemplos aos poucos, sempre priorizando clareza e simplic
 ## 🛠️ Como usar este repositório
 
 1. Clone o projeto:
-bash
-git clone https://github.com/tiagollopes/golang-examples.git
-cd golang-examples
+`git clone https://github.com/tiagollopes/golang-examples.git`
+`cd golang-examples`
 
 2. Escolha uma pasta (exemplo: structs):
-```bash
-cd structs
+`cd structs`
 
 3. Execute o exemplo:
-bash
-go run
+`go run`
 
 Espero que esses exemplos te ajudem tanto quanto estão me ajudando nos estudos!
 Sinta-se à vontade para clonar, rodar, modificar, copiar e aprender junto comigo.
